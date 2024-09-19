@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "formik": "^2.4.6",
+    "react-native-bouncy-checkbox": "^4.1.2",
+    "yup": "^1.4.0"
+  }
+}

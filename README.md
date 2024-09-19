@@ -11,4 +11,5 @@
 
 # App 3 
 - npm install yup (for validation)
-- npm install formic
+- npm install formik
+- npm i react-native-bouncy-checkbox
