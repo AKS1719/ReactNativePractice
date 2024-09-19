@@ -10,5 +10,5 @@
 
 
 # App 3 
-- npm install yup
-- 
+- npm install yup (for validation)
+- npm install formic
