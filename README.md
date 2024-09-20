@@ -33,3 +33,4 @@ statusBar
 declare module "*.png"
 ```
 
+- npm i react-native-haptic-feedback
