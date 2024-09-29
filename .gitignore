@@ -1,2 +1,4 @@
 debug.keystore
 node_modules
+my-upload-key.keystore
+gradle.properties
