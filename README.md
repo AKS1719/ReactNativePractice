@@ -34,3 +34,9 @@ declare module "*.png"
 ```
 
 - npm i react-native-haptic-feedback
+
+# app 6 (currency converter)
+- snackbar
+- 
+# App 7 (Tic Tac Toe)
+
