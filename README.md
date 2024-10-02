@@ -40,3 +40,6 @@ declare module "*.png"
 - 
 # App 7 (Tic Tac Toe)
 
+
+
+# for the 9 th app we need to download react-native navigation follow the documentation and download stack to 
